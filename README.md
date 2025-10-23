@@ -45,3 +45,5 @@ Build a user-friendly interface for real-time data display
 Understand basic error handling and API response parsing
 
 OUTPUT
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/f91a1000-4b3a-43f7-8795-79aecd94233e" />
