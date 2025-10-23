@@ -1,10 +1,10 @@
-# WEATHER-APP-WITH-API-INTEGRATION
+API-INTEGRATION
 
 COMPANY: CODTECH IT SOLUTIONS
 
-NAME: SHALINI M RAO
+NAME: Rashmi R
 
-INTERN ID: CT04DY2814
+INTERN ID: CT04DY
 
 DOMAIN: FULL STACK DEVELOPMENT
 
@@ -14,39 +14,34 @@ MENTOR: NEELA SANTOSH
 
 PROJECT DESCRIPTION
 
-The Weather App with API Integration is a responsive web application that provides real-time weather information for any city. It is developed using HTML, CSS, and JavaScript, and uses the OpenWeatherMap API to fetch accurate weather data.
+Description:
+This project demonstrates the integration of a third-party weather API into a responsive web application. Built using HTML, CSS, and JavaScript, the app fetches real-time weather data based on user input (city name or geolocation) and displays key metrics such as temperature, humidity, wind speed, and weather conditions. The goal is to provide users with a fast, intuitive interface for checking current weather updates in any location.
 
-Users can type a city name to view temperature, humidity, wind speed, and weather conditions instantly. The app dynamically updates the weather details without page reload, making it fast and user-friendly.
+ Features:
+Real-time weather data using OpenWeatherMap API (or similar)
 
-Features
+City-based search functionality
 
-Fetches live weather data using API integration.
+Dynamic UI updates based on API response
 
-Displays temperature, humidity, and wind speed.
+Error handling for invalid inputs or failed requests
 
-Provides error messages for invalid city names.
+Responsive design for desktop and mobile devices
 
-Has a responsive design suitable for all devices.
+ Technologies Used:
+Frontend: HTML5, CSS3, JavaScript (ES6+)
 
-Technologies Used:
+API: OpenWeatherMap REST API
 
-HTML5
-CSS3
-JavaScript (ES6)
-OpenWeatherMap API
+Tools: Lite-server for local development, Git for version control
 
-Example
+Objectives:
+Learn how to consume RESTful APIs using JavaScript
 
-If a user searches for Mysore:
-Temperature: 28°C
-Humidity: 60%
-Wind Speed: 3.5 m/s
-Weather: Clear Sky
+Practice asynchronous programming with fetch() and Promises
 
-Learning Outcomes
+Build a user-friendly interface for real-time data display
 
-This project helped me understand API integration, asynchronous programming, and JSON data handling. I also improved my front-end development skills and learned how to create an interactive and visually appealing web application.
+Understand basic error handling and API response parsing
 
 OUTPUT
-
-<img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/f57ff020-3b51-4370-b014-ccd2d1cb946e" />
